@@ -28,3 +28,40 @@
 //     number++;
 // }
 
+// var fruits = ["orange", "banana", "apple", "kola", "blueberry"];
+
+// sorting an array - a-z (acsending order)
+// reverse an array - z-a 
+
+// fruits.sort()
+// fruits.reverse();
+
+// fruits.splice(3,2); // adding or removing items from an array
+
+
+// array iteration using for loop.
+// var numbers = [45,5,40,20,10,11,9,6,3,1];
+
+// // console.log(fruits[0], fruits[1], )
+
+// for (var i = 0; i < numbers.length; i++){
+    
+//     if (numbers[i] % 2 === 0){
+//         console.log(numbers[i] + " even numbers")
+//     } else {
+//         console.log(numbers[i] + " odd numbers")
+//     }
+// }
+
+
+// var numbers = [45,5,40,20,10,11,9,6,3,1];
+
+// numbers.sort(function(a,b){
+//     return a - b; // ascending order
+// })
+
+// numbers.sort(function(a,b){
+//     return b - a; // descending order
+// }) 
+
+// console.log(numbers);

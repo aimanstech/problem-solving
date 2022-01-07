@@ -44,10 +44,10 @@
 // }
 
 
-var fruits = ["orange", "apple", "pepe", "banana", "strawberry", 12, 2 , 1]
+// var fruits = ["orange", "apple", "pepe", "banana", "strawberry", 12, 2 , 1]
 
-// console.log(fruits.sort())
-// console.log(fruits.reverse())
+// // console.log(fruits.sort())
+// // console.log(fruits.reverse())
 
-var splice = fruits.splice(2,1)
-console.log(fruits)
+// var splice = fruits.splice(2,1) 
+// console.log(fruits)

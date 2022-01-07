@@ -1,5 +1,5 @@
-let bade = "hello, Good Morning Ma'am!"
-let text = "Morgan"
+// let bade = "hello, Good Morning Ma'am!"
+// let text = "Morgan"
 
 // replace text in a string
 // console.log(bade.replace("Morning", "Night"))
@@ -52,5 +52,15 @@ let text = "Morgan"
 // }
 
 
+// var userName = "Tanvir"
+// var condition = "well"
+// var birth = "15th December"
+// var country = "Pakistan"
 
+// var sentence = `
+// Hello, Good Morning ${userName}, Hope you are doing ${condition}?
+// ${userName} date of birth is ${birth}
+// Right now he is in ${country}
 
+// `
+// console.log(sentence);
